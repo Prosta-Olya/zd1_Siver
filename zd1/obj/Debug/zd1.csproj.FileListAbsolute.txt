@@ -1,0 +1,7 @@
+C:\Сивер ПР-21\zd1\bin\Debug\zd1.exe.config
+C:\Сивер ПР-21\zd1\bin\Debug\zd1.exe
+C:\Сивер ПР-21\zd1\bin\Debug\zd1.pdb
+C:\Сивер ПР-21\zd1\obj\Debug\zd1.csproj.AssemblyReference.cache
+C:\Сивер ПР-21\zd1\obj\Debug\zd1.csproj.CoreCompileInputs.cache
+C:\Сивер ПР-21\zd1\obj\Debug\zd1.exe
+C:\Сивер ПР-21\zd1\obj\Debug\zd1.pdb
